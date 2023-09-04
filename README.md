@@ -1,8 +1,5 @@
 ### Hello 👋 I'm Dan McLachlan
 
-<!--
-**danmcl77/danmcl77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 I'm a physics graduate from the University of Galway/NUI Galway. I'm interested in all things space-related - particularly gas kinematics, star formation and planetary nebulae. 
 I also enjoy technical challenges, any opportunity to exercise the grey cells.
 
