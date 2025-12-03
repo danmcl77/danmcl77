@@ -2,7 +2,7 @@
 
 I'm an astrophysics PhD student at Charles University in Prague with an MSc from the University of Galway/NUI Galway.
 
-- 🌳 Proficient in Python, currently learning Fortran
+- 🌳 Proficient in Python, currently learning Fortran and improving on bash scripting and the joys of working on supercomputer clusters
 - 🔭 Experience working with resolved images of circumstellar disks in infrared from VLT/SPHERE and in mm regime with ALMA
 - 🔭 Currently learning spectroscopic techniques, radioastronomy fundamentals, radiative transfer modelling and more useful skills
 - 🌱 Also make some fun little programs for whatever strikes my fancy at any given time
